@@ -39,7 +39,7 @@
         "LOG_CHANNEL": {
             "description": "Logs Channel ID for some Tracking XD. Example: -100123456789"
         }
-    },
+    },gagagsgsh
     "buildpacks": [
         {
             "url": "heroku/python"
